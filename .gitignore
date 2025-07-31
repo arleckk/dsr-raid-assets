@@ -1,0 +1,13 @@
+# Go
+/bin/
+*.exe
+*.test
+*.out
+
+# Entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+*.swp
+
